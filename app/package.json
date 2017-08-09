@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^0.19.1"
+    "web3": "^0.19.1",
+    "xmlhttprequest": "^1.8.0"
   }
 }
